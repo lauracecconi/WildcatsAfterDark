@@ -186,7 +186,7 @@ export default function App() {
                 <span>$32.25 each</span>
               </div>
               <p className="mt-2 text-sm text-ash">
-                Example only. Your real amount comes by email after sign-ups close October 5. A
+                Example only. Your real amount comes by email after sign-ups close October 9. A
                 family with 2 tickets pays 2 × that.
               </p>
             </div>
@@ -208,7 +208,7 @@ export default function App() {
         {/* ───────── RSVP ───────── */}
         <Section id="rsvp" title="RSVP">
           <p className="mb-4 text-ash">
-            One form per child. Sign-ups close October 5 at 8 PM.
+            One form per child. Sign-ups close October 9 at 8 PM.
           </p>
           <div className="overflow-hidden rounded-lg bg-white">
             <iframe
