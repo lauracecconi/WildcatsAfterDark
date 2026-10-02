@@ -8,7 +8,7 @@ const CONFIG = {
     'https://docs.google.com/forms/d/e/1FAIpQLSfE7LOfsQLKAbAr1JcxOb0iNXryGj_cHsc7T1skf7UloxYzww/viewform?embedded=true',
   formLink:
     'https://docs.google.com/forms/d/e/1FAIpQLSfE7LOfsQLKAbAr1JcxOb0iNXryGj_cHsc7T1skf7UloxYzww/viewform',
-  rsvpDeadline: '2026-10-05T20:00:00-04:00',
+  rsvpDeadline: '2026-10-09T20:00:00-04:00',
   eventDate: 'Friday, October 30',
   entryTime: '6:30 PM',
   houseTime: '5:00 PM',
