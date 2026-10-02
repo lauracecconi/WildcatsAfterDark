@@ -21,7 +21,7 @@ const CONFIG = {
   venmo: '@Laura-Cecconi',
   heldTickets: 20,
   heldPrice: 25,
-  yearLabel: 'Year Three · Est. 2024',
+//  yearLabel: 'Year Three · Est. 2024',
 }
 // ─────────────────────────────────────────────
 
@@ -110,8 +110,7 @@ export default function App() {
       <div className="mx-auto max-w-2xl px-5 pb-12">
         {/* ───────── HERO ───────── */}
         <header className="pb-8 pt-14 text-center">
-          <p className="text-xs uppercase tracking-[0.22em] text-ash">{CONFIG.yearLabel}</p>
-          <h1 className="glow mt-4 animate-flicker font-scream text-6xl leading-[0.95] text-gore sm:text-8xl">
+            <h1 className="glow mt-4 animate-flicker font-scream text-6xl leading-[0.95] text-gore sm:text-8xl">
             Wildcats After Dark
           </h1>
           <p className="mt-3 text-lg text-bone">The Annual 6th Grade Bates Motel Night</p>
